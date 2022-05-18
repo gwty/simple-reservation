@@ -1,0 +1,7 @@
+codecov
+pytest-django
+pytest-cov
+mixer
+selenium
+djangorestframework
+djangorestframework-datatables
